@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>add-text-interface-hand-drawn-symbol-outline.png</file>
+        <file>simple_clouds_on_blue_background_by_dragossshadow-d5edqq0.png</file>
+        <file>trash-can-hand-drawn-symbol.png</file>
+        <file>zip-file.png</file>
+        <file>zipper-tool.png</file>
+        <file>zip-file (1).png</file>
+        <file>search-with-magnifier-sketch.png</file>
+        <file>search-with-magnifier-sketch (1).png</file>
+        <file>alarm-clock.png</file>
+        <file>discount-tag.png</file>
+        <file>meter-spiral.png</file>
+        <file>box-closed.png</file>
+        <file>box-open-shape.png</file>
+        <file>box-closed (1).png</file>
+        <file>box-open-shape (1).png</file>
+        <file>hello-speech-bubble-handmade-chatting-symbol.png</file>
+        <file>hello-speech-bubble-handmade-chatting-symbol (1).png</file>
+    </qresource>
+</RCC>
